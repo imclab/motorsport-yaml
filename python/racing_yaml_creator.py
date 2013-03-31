@@ -10,9 +10,11 @@ with open('nascar-nationwide-no-aliases.csv', 'rb') as csv_input:
     next(initial_csv)
     for row in initial_csv:
       array.append(row)
+      
 # Getting the race event name aliases
 import urllib2
 for i in range (0, len(array)):
+    
   # URL of the Wikipedia article content API
   # is stored in the 4th column of the CSV file
   wiki_url = array[i][3]
@@ -39,8 +41,10 @@ for i in range (0, len(array)):
   index2 = head_removed.find(last_string)
 
   # Removing all the crap in the rear
-  # These rules are for Nascar Sprint Cup 
   tail_removed = head_removed[0:index2]
+  
+  # "Normalization" rules; order is important!
+  # These rules are for Nascar Sprint Cup 
   final_string = tail_removed.replace("&lt;", "")
   final_string = final_string.replace("'''", "")
   final_string = final_string.replace("[[", "")
@@ -59,10 +63,10 @@ for i in range (0, len(array)):
   final_string = final_string.replace("| ", "")
   final_string = final_string.replace("  ", " ")   
   
-  # This is added for Nascar Camping
+  # Additional rules for Nascar Camping
   final_string = final_string.replace("BR&gt;", "") 
   
-  # This is added for IndyCar
+  # Additional rules for IndyCar
   final_string = final_string.replace("''", "")   
   final_string = final_string.replace("/u&gt;", " ")
   final_string = final_string.replace("u&gt;", "")    
@@ -94,7 +98,6 @@ for i in range (0, len(array)):
   
   # This is for postseason 
   # array[i][4] = final_string
-  
 
 # Outputting in YAML format
 for row in array:
