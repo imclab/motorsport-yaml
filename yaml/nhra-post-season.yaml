@@ -1,108 +1,36 @@
 -
-	name: O'Reilly Auto Parts NHRA Winternationals
-	series: nhra
-	track: Auto Club Raceway at Pomona
-	aliases:
-		
--
-	name: NHRA Arizona Nationals
-	series: nhra
-	track: Firebird International Raceway
-	aliases:
-		
--
-	name: Amalie Motor Oil Gatornationals
-	series: nhra
-	track: Gainesville Raceway
-	aliases:
-		
--
-	name: SummitRacing.com NHRA Nationals
-	series: nhra
-	track: Las Vegas Motor Speedway
-	aliases:
-		
--
-	name: Dollar General Four-Wide Nationals1
+	name: NHRA Nationals
 	series: nhra
 	track: Charlotte Motor Speedway
+	postseason: true
 	aliases:
-		
 -
-	name: O'Reilly Auto Parts NHRA Spring Nationals
+	name: AAA Texas NHRA Fall Nationals
 	series: nhra
-	track: Houston Raceway Park
+	track: Texas Motorplex
+	postseason: true
 	aliases:
-		
 -
-	name: Summit Racing Equipment NHRA Southern Nationals
+	name: AAA Insurance NHRA Midwest Nationals
 	series: nhra
-	track: Atlanta Dragway
+	track: Gateway International Raceway
+	postseason: true
 	aliases:
-		
 -
-	name: NHRA Kansas Nationals
+	name: Auto-Plus NHRA Nationals
 	series: nhra
-	track: Heartland Park Topeka
+	track: Maple Grove Raceway
+	postseason: true
 	aliases:
-		
 -
-	name: Toyota NHRA Summernationals
+	name: NHRA Las Vegas Nationals
 	series: nhra
-	track: Old Bridge Township Raceway Park
+	track: Las Vegas Motor Speedway
+	postseason: true
 	aliases:
-		
 -
-	name: NHRA Ford Thunder Valley Nationals
+	name: Automobile Club of Southern California NHRA Finals
 	series: nhra
-	track: Bristol Motor Speedway
+	track: Auto Club Raceway at Pomona
+	postseason: true
 	aliases:
-		
--
-	name: NHRA New England Nationals
-	series: nhra
-	track: New England Dragway
-	aliases:
-		
--
-	name: O'Reilly Auto Parts Route 66 NHRA Nationals
-	series: nhra
-	track: Route 66 Raceway
-	aliases:
-		
--
-	name: Summit Racing Equipment NHRA Nationals
-	series: nhra
-	track: Summit Motorsports Park
-	aliases:
-		
--
-	name: Mopar Mile-High NHRA Nationals
-	series: nhra
-	track: Bandimere Speedway
-	aliases:
-		
--
-	name: NHRA Sonoma Nationals
-	series: nhra
-	track: Infineon Raceway
-	aliases:
-		
--
-	name: O'Reilly Auto Parts NHRA Northwest Nationals
-	series: nhra
-	track: Pacific Raceways
-	aliases:
-		
--
-	name: Lucas Oil NHRA Nationals
-	series: nhra
-	track: Brainerd International Raceway
-	aliases:
-		
--
-	name: NHRA U.S. Nationals
-	series: nhra
-	track: O'Reilly Raceway Park at Indianapolis
-	aliases:
-		
