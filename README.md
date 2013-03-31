@@ -21,14 +21,14 @@ After grabbing the appropriate Wikipeida URL's for the relevant race events, I t
 
 <b>Python scripts</b>
 <br />
-<a href="https://github.com/serve-and-volley/racing-yaml/blob/master/python/race_alias_tester.py" target="_blank">race_alias_tester.py</a>
+<a href="https://github.com/serve-and-volley/motorsport-yaml/blob/master/python/race_alias_tester.py" target="_blank">race_alias_tester.py</a>
 <br />
 This is used to test the API URL's and to figure out the parsing rules to extract the race event aliases. This was a big pain in the ass since Wikipedia articles do not have uniform formatting.
 
-<a href="https://github.com/serve-and-volley/racing-yaml/blob/master/python/racing_yaml_creator.py" target="_blank">racing_yaml_creator.py</a>
+<a href="https://github.com/serve-and-volley/motorsport-yaml/blob/master/python/racing_yaml_creator.py" target="_blank">racing_yaml_creator.py</a>
 <br />
 This is the main script that reads the CSV files, parses for the race event aliases from the Wikipedia API, and then creates the corresponding YAML file. Because Wikipedia data is not uniform, some minor cleaning up of the YAML files after they were created was necessary.
 
-<a href="https://github.com/serve-and-volley/racing-yaml/blob/master/python/aliases_csv2yml.py" target="_blank">aliases_csv2yml.py</a>
+<a href="https://github.com/serve-and-volley/motorsport-yaml/blob/master/python/aliases_csv2yml.py" target="_blank">aliases_csv2yml.py</a>
 <br />
 This is the quick script that creates the YAML file from a CSV file that already contains the race event aliases, such as the case for Formula One.
