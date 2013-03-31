@@ -1,0 +1,17 @@
+race,series,track,url
+Honda Grand Prix of St. Petersburg,indycar,Streets of St. Petersburg,http://en.wikipedia.org/w/api.php?format=xml&action=query&prop=revisions&rvprop=content&titles=Honda_Grand_Prix_of_St._Petersburg
+Honda Indy Grand Prix of Alabama,indycar,Barber Motorsports Park,http://en.wikipedia.org/w/api.php?format=xml&action=query&prop=revisions&rvprop=content&titles=Indy_Grand_Prix_of_Alabama
+39th Toyota Grand Prix of Long Beach,indycar,Streets of Long Beach,http://en.wikipedia.org/w/api.php?format=xml&action=query&prop=revisions&rvprop=content&titles=Grand_Prix_of_Long_Beach
+Itaipava São Paulo Indy 300 presented by Nestlé,indycar,Streets of São Paulo,http://en.wikipedia.org/w/api.php?format=xml&action=query&prop=revisions&rvprop=content&titles=S%C3%A3o_Paulo_Indy_300
+97th Indianapolis 500-Mile Race,indycar,Indianapolis Motor Speedway,http://en.wikipedia.org/w/api.php?format=xml&action=query&prop=revisions&rvprop=content&titles=Indianapolis_500
+Chevrolet Indy Dual in Detroit presented by Quicken Loans,indycar,Belle Isle,http://en.wikipedia.org/w/api.php?format=xml&action=query&prop=revisions&rvprop=content&titles=Detroit_Belle_Isle_Grand_Prix
+Firestone 550,indycar,Texas Motor Speedway,http://en.wikipedia.org/w/api.php?format=xml&action=query&prop=revisions&rvprop=content&titles=Firestone_550
+Milwaukee IndyFest,indycar,Milwaukee Mile,http://en.wikipedia.org/w/api.php?format=xml&action=query&prop=revisions&rvprop=content&titles=Milwaukee_IndyFest
+Iowa Corn Indy 250,indycar,Iowa Speedway,http://en.wikipedia.org/w/api.php?format=xml&action=query&prop=revisions&rvprop=content&titles=Iowa_Corn_Indy_250
+Pocono IndyCar 400,indycar,Pocono Raceway,http://en.wikipedia.org/w/api.php?format=xml&action=query&prop=revisions&rvprop=content&titles=Pocono_IndyCar_400
+Honda Indy Toronto,indycar,Exhibition Place,http://en.wikipedia.org/w/api.php?format=xml&action=query&prop=revisions&rvprop=content&titles=Honda_Indy_Toronto
+Honda Indy 200 at Mid-Ohio,indycar,Mid-Ohio Sports Car Course,http://en.wikipedia.org/w/api.php?format=xml&action=query&prop=revisions&rvprop=content&titles=Honda_Indy_200
+GoPro Indy Grand Prix of Sonoma,indycar,Sonoma Raceway,http://en.wikipedia.org/w/api.php?format=xml&action=query&prop=revisions&rvprop=content&titles=GoPro_Indy_Grand_Prix_of_Sonoma
+Grand Prix of Baltimore,indycar,Streets of Baltimore,http://en.wikipedia.org/w/api.php?format=xml&action=query&prop=revisions&rvprop=content&titles=Grand_Prix_of_Baltimore
+Shell-Pennzoil Grand Prix of Houston,indycar,Reliant Park,http://en.wikipedia.org/w/api.php?format=xml&action=query&prop=revisions&rvprop=content&titles=Grand_Prix_of_Houston
+American Real TV 500 IndyCar World Championships,indycar,Auto Club Speedway,http://en.wikipedia.org/w/api.php?format=xml&action=query&prop=revisions&rvprop=content&titles=MAVTV_500

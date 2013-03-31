@@ -1,0 +1,383 @@
+-
+	name: Sprint Unlimited
+	series: sprint-cup
+	track: Daytona International Speedway
+	aliases:
+		Busch Clash 
+		Bud Shootout 
+		Budweiser Shootout
+-
+	name: Budweiser Duels
+	series: sprint-cup
+	track: Daytona International Speedway
+	aliases:
+		100 Mile Qualifying Races 
+		125 Mile Qualifying Races 
+		UNO Twin 125 Qualifiers 
+		7-Eleven Twins 
+		Twin 125 Qualifiers 
+		Gatorade Twin 125 Qualifiers 
+		Gatorade Twin 125s 
+		Gatorade 125s 
+		Gatorade Duel
+-
+	name: Daytona 500
+	series: sprint-cup
+	track: Daytona International Speedway
+	aliases:
+		First Annual 500 Mile International Sweepstakes 
+		Second Annual 500 Mile International Sweepstakes 
+		Daytona 500 by STP
+		Daytona 500 by Dodge
+		Daytona 500 by Toyota
+		Daytona 500
+-
+	name: Subway Fresh Fit 500
+	series: sprint-cup
+	track: Phoenix International Raceway
+	aliases:
+		Subway Fresh 500
+		Subway Fresh Fit 500
+		Subway Fresh Fit 600
+-
+	name: Kobalt Tools 400
+	series: sprint-cup
+	track: Las Vegas Motor Speedway
+	aliases:
+		Las Vegas 400 
+		CarsDirect.com 400 
+		UAW-DaimlerChrysler 400 
+		UAW-Dodge 400 
+		Shelby 427 
+		Shelby American
+-
+	name: Food City 500
+	series: sprint-cup
+	track: Bristol Motor Speedway
+	aliases:
+		Southeastern 500 
+		Southeastern 400 
+		Valleydale Southeastern 500 
+		Valleydale 500 
+		Valleydale Meats 500 
+		Food City 500 
+		Jeff Byrd 500 presented by Food City
+-
+	name: Auto Club 400
+	series: sprint-cup
+	track: Auto Club Speedway
+	aliases:
+		California 500 Presented by NAPA 
+		NAPA Auto Parts 500 
+		Auto Club 500
+-
+	name: STP Gas Booster 500
+	series: sprint-cup
+	track: Martinsville Speedway
+	aliases:
+		Unnamed 
+		Virginia 500 
+		Virginia 500 Sweepstakes 
+		Virginia National Bank 500 
+		Sovran Bank 500 
+		Pannill Sweatshirts 500 
+		Hanes Activewear 500 
+		Hanes 500 
+		Goody's Headache Powder 500 
+		Goody's Body Pain 500 
+		Advance Auto Parts 500 
+		DirecTV 500 
+		Goody's Cool Orange 500 
+		Goody's Fast Pain Relief 500 
+		Goody's Fast Relief 500
+-
+	name: NRA 500
+	series: sprint-cup
+	track: Texas Motor Speedway
+	aliases:
+		Interstate Batteries 500 
+		Texas 500 
+		Primestar 500 
+		DirecTV 500 
+		Harrah's 500 
+		Samsung / RadioShack 500 
+		Samsung 500 
+		Samsung Mobile 500
+-
+	name: STP 400
+	series: sprint-cup
+	track: Kansas Speedway
+	aliases:
+		
+-
+	name: Toyota Owners 400
+	series: sprint-cup
+	track: Richmond International Raceway
+	aliases:
+		Richmond 200 
+		Richmond 100 
+		Richmond 250 
+		Richmond 500 
+		Richmond 400 
+		Miller High Life 400 
+		Pontiac Excitement 400 
+		Chevy American Revolution 400 
+		Crown Royal 400 
+		Crown Royal presents the Your Name Here 400 
+		Capital City 400 presented by Virginia is for Lovers
+-
+	name: Aaron's 499
+	series: sprint-cup
+	track: Talladega Superspeedway
+	aliases:
+		Alabama 500 
+		Winston 500 
+		Winston Select 500 
+		DieHard 500 
+		Talladega 500
+-
+	name: Bojangles' Southern 500
+	series: sprint-cup
+	track: Darlington Raceway
+	aliases:
+		Rebel 300 
+		Rebel 400 
+		Rebel 500 
+		Rebel 450 
+		CRC Chemicals Rebel 500 
+		TranSouth 500 
+		TranSouth Financial 400 
+		Mall.com 400 
+		Carolina Dodge Dealers 400 
+		Dodge Charger 500 
+		Dodge Avenger 500 
+		Dodge Challenger 500 
+		Southern 500 presented by GoDaddy.com 
+		Showtime Southern 500
+-
+	name: NASCAR Sprint All-Star Race XXIX
+	series: sprint-cup
+	track: Charlotte Motor Speedway
+	aliases:
+		The Winston 
+		The Winston Select 
+		NEXTEL All-Star Challenge
+-
+	name: Coca-Cola 600
+	series: sprint-cup
+	track: Charlotte Motor Speedway
+	aliases:
+		World 600 
+		Coca-Cola World 600 
+		Coca-Cola 600 
+		Coca-Cola Racing Family 600
+-
+	name: FedEx 400
+	series: sprint-cup
+	track: Dover International Speedway
+	aliases:
+		Mason-Dixon 300 
+		Mason-Dixon 500 
+		Budweiser 500 
+		Miller Genuine Draft 500 
+		Miller 500 
+		MBNA Platinum 400 
+		MBNA Armed Forces Family 400 
+		MBNA America 400 &quot;A Salute To Heroes&quot; 
+		MBNA RacePoints 400 
+		Neighborhood Excellence 400 
+		Autism Speaks 400 presented by Visa 
+		Best Buy 400 benefiting Student Clubs for Autism Speaks 
+		Autism Speaks 400 presented by Heluva Good! 
+		Autism Speaks 400 presented by Hershey's Milk & Milkshakes
+-
+	name: Fan Driven 400
+	series: sprint-cup
+	track: Pocono Raceway
+	aliases:
+		Van Scoy Diamond Mine 500 
+		Miller High Life 500 
+		Miller Genuine Draft 500 
+		Champion Spark Plug 500 
+		UAW-GM Teamwork 500 
+		Pocono 500 
+		Gillette Fusion ProGlide 500 
+		5-hour Energy 500 
+		Pocono 400 Presented by #NASCAR
+-
+	name: Quicken Loans 400
+	series: sprint-cup
+	track: Michigan International Speedway
+	aliases:
+		Motor State 500 
+		Motor State 400 
+		Motor State 360 
+		Cam 2 Motor Oil 400 
+		Gabriel 400 
+		Miller High Life 400 
+		Miller 400 
+		Miller American 400 
+		Miller Genuine Draft 400 
+		Miller Lite 400 
+		Kmart 400 
+		Sirius Satellite Radio 400 
+		Sirius 400 
+		DHL 400 
+		Batman Begins 400 
+		3M Performance 400 Presented by Post-it Picture Paper 
+		Citizens Bank 400 
+		LifeLock 400 
+		Heluva Good! Sour Cream Dips 400 
+		Quicken Loans 400
+-
+	name: Toyota/Save Mart 350
+	series: sprint-cup
+	track: Sonoma Raceway
+	aliases:
+		Banquet Frozen Foods 300 
+		Save Mart 300K 
+		Save Mart Supermarkets 300K 
+		Save Mart Supermarkets 300 
+		Save Mart/Kragen 350 
+		Dodge/Save Mart 350
+-
+	name: Quaker State 400
+	series: sprint-cup
+	track: Kentucky Speedway
+	aliases:
+		
+-
+	name: Coke Zero 400
+	series: sprint-cup
+	track: Daytona International Speedway
+	aliases:
+		Firecracker 250
+		Firecracker 400
+		Medal of Honor Firecracker 400
+		Pepsi Firecracker 400
+		Pepsi 400
+		Coke Zero 400 Powered By Coca Cola
+-
+	name: Lenox Industrial Tools 301
+	series: sprint-cup
+	track: New Hampshire Motor Speedway
+	aliases:
+		Slick 50 300 
+		Jiffy Lube 300 
+		thatlook.com 300 
+		New England 300 
+		Siemens 300 
+		Lenox Industrial Tools 300 
+		Lenox Industrial Tools 301
+-
+	name: Crown Royal 400
+	series: sprint-cup
+	track: Indianapolis Motor Speedway
+	aliases:
+		Brickyard 400 
+		Allstate 400 at the Brickyard 
+		Brickyard 400 presented by BigMachineRecords.com
+-
+	name: Gobowling.com 400
+	series: sprint-cup
+	track: Pocono Raceway
+	aliases:
+		Pennsylvania 500 
+		Acme 500 
+		Purolator 500 
+		Coca-Cola 500 
+		Mountain Dew 500 
+		Like Cola 500 
+		Summer 500 
+		AC Spark Plug 500 
+		Miller Genuine Draft 500 
+		Miller 500 
+		Sunoco Red Cross Pennsylvania 500 
+		Good Sam RV Insurance 500 
+		Pennsylvania 400
+-
+	name: Cheez-It 355 at The Glen
+	series: sprint-cup
+	track: Watkins Glen International
+	aliases:
+		The Glen 101.2 
+		The Glen 151.8 
+		The Budweiser At The Glen 
+		Budweiser At The Glen 
+		The Bud At The Glen 
+		Frontier @ the Glen 
+		Global Crossing @ The Glen 
+		Sirius Satellite Radio at the Glen 
+		AMD at the Glen 
+		Centurion Boats at the Glen 
+		Heluva Good! Sour Cream Dips at The Glen 
+		Finger Lakes 355 at The Glen
+-
+	name: Pure Michigan 400
+	series: sprint-cup
+	track: Michigan International Speedway
+	aliases:
+		Yankee 600 
+		Yankee 400 
+		Champion Spark Plug 400 
+		GM Goodwrench Dealer 400 
+		DeVilbiss 400 
+		Pepsi 400 Presented by DeVilbiss 
+		Pepsi 400 Presented by Meijer 
+		Pepsi 400 Presented by Farmer Jack 
+		GFS Marketplace 400 
+		3M Performance 400 
+		3M Performance 400 Presented by Bondo 
+		Carfax 400
+-
+	name: Irwin Tools Night Race
+	series: sprint-cup
+	track: Bristol Motor Speedway
+	aliases:
+		Volunteer 500 
+		Volunteer 400 
+		Busch Volunteer 500 
+		Busch 500 
+		Bud 500 
+		Goody's 500 
+		Goody's Headache Powder 500 
+		goracing.com 500 
+		Sharpie 500
+-
+	name: AdvoCare 500
+	series: sprint-cup
+	track: Atlanta Motor Speedway
+	aliases:
+		Dixie 300 
+		Dixie 400 
+		Dixie 500 
+		Atlanta Journal 500 
+		Hardee's 500 
+		Hooters 500 
+		NAPA 500 
+		Bass Pro Shops MBNA 500 
+		Pep Boys Auto 500 
+		Emory Healthcare 500
+-
+	name: Federated Auto Parts 400
+	series: sprint-cup
+	track: Richmond International Raceway
+	aliases:
+		Richmond 200 
+		Richmond 100 
+		Richmond 250 
+		Capital City 300 
+		Capital City 250 
+		Capital City 500 
+		Capital City 400 
+		Wrangler Sanfor-Set 400 
+		Wrangler Jeans Indigo 400 
+		Miller High Life 400 
+		Miller Genuine Draft 400 
+		Miller 400 
+		Exide NASCAR Select Batteries 400 
+		Chevrolet Monte Carlo 400 
+		Chevrolet Monte Carlo 400 with the Looney Tunes 
+		Chevy Rock & Roll 400 
+		Air Guard 400 
+		Wonderful Pistachios 400

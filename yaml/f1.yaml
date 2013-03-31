@@ -1,0 +1,133 @@
+-
+	name: Rolex Australian Grand Prix
+	series: f1
+	track: Albert Park
+	aliases:
+		Australian Grand Prix
+		Australian GP
+-
+	name: Petronas Malaysia Grand Prix
+	series: f1
+	track: Sepang International Circuit
+	aliases:
+		Malaysian Grand Prix
+		Malaysian GP
+-
+	name: UBS Chinese Grand Prix
+	series: f1
+	track: Shanghai International Circuit
+	aliases:
+		Chinese Grand Prix
+		Chinese GP
+-
+	name: Gulf Air Bahrain Grand Prix
+	series: f1
+	track: Bahrain International Circuit
+	aliases:
+		Bahrain Grand Prix
+		Bahrain GP
+-
+	name: Gran Premio de España
+	series: f1
+	track: Circuit de Catalunya
+	aliases:
+		Spanish Grand Prix
+		Spanish GP
+-
+	name: Grand Prix de Monaco
+	series: f1
+	track: Circuit de Monaco
+	aliases:
+		Monaco Grand Prix
+		Monaco GP
+-
+	name: Grand Prix du Canada
+	series: f1
+	track: Circuit Gilles Villeneuve
+	aliases:
+		Canadian Grand Prix
+		Canadian GP
+-
+	name: British Grand Prix
+	series: f1
+	track: Silverstone Circuit
+	aliases:
+		British Grand Prix
+		British GP
+-
+	name: Großer Preis von Deutschland
+	series: f1
+	track: Nürburgring
+	aliases:
+		German Grand Prix
+		German GP
+-
+	name: Magyar Nagydíj
+	series: f1
+	track: Hungaroring
+	aliases:
+		Hungarian Grand Prix
+		Hungarian GP
+-
+	name: Shell Belgian Grand Prix
+	series: f1
+	track: Circuit de Spa-Francorchamps
+	aliases:
+		Belgian Grand Prix
+		Belgian GP
+-
+	name: Gran Premio d'Italia
+	series: f1
+	track: Autodromo Nazionale Monza
+	aliases:
+		Italian Grand Prix
+		Italian GP
+-
+	name: Singapore Grand Prix
+	series: f1
+	track: Marina Bay Street Circuit
+	aliases:
+		Singapore Grand Prix
+		Singapore GP
+-
+	name: Korean Grand Prix
+	series: f1
+	track: Korea International Circuit
+	aliases:
+		Korean Grand Prix
+		Korean GP
+-
+	name: Japanese Grand Prix
+	series: f1
+	track: Suzuka Circuit
+	aliases:
+		Japanese Grand Prix
+		Japanese GP
+-
+	name: Airtel Indian Grand Prix
+	series: f1
+	track: Buddh International Circuit
+	aliases:
+		Indian Grand Prix
+		Indian GP
+-
+	name: Etihad Airways Abu Dhabi Grand Prix
+	series: f1
+	track: Yas Marina Circuit
+	aliases:
+		Abu Dhabi Grand Prix
+		Abu Dhabi GP
+-
+	name: United States Grand Prix
+	series: f1
+	track: Circuit of the Americas
+	aliases:
+		United States Grand Prix
+		United States GP
+-
+	name: Grande Prêmio do Brasil
+	series: f1
+	track: Autódromo José Carlos Pace
+	aliases:
+		Brazilian Grand Prix
+		Brazilian GP

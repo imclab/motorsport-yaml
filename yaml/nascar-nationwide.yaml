@@ -1,0 +1,360 @@
+-
+	name: DRIVE4COPD 300
+	series: nationwide
+	track: Daytona International Speedway
+	aliases:
+		Modified Sportsman Race 
+		Daytona Permatex 300 
+		Sportsman 300 
+		Goody's Sportsman 300 
+		Goody's 300 
+		Goody's Headache Powder 300 
+		Gargoyles 300 
+		NAPA Auto Parts 300 
+		Koolerz 300 
+		Hershey's Kisses 300 
+		Hershey's Take 5 300 
+		Hershey's Kissables 300 
+		Orbitz 300 
+		Camping World 300
+-
+	name: Dollar General 200
+	series: nationwide
+	track: Phoenix International Raceway
+	aliases:
+		Bashas' Supermarkets 200
+-
+	name: Sam's Town 300
+	series: nationwide
+	track: Las Vegas Motor Speedway
+	aliases:
+		Las Vegas 300 
+		Sam's Town Las Vegas 300
+-
+	name: Jeff Foxworthy's Grit Chips 300
+	series: nationwide
+	track: Bristol Motor Speedway
+	aliases:
+		Southeastern 150 
+		Budweiser 200 
+		Budweiser 250 
+		Goody's 250 
+		Goody's Headache Powder 250 
+		Moore's Snacks 250 
+		Cheez-It 250 
+		Channellock 250 
+		Sharpie Professional 250 
+		Sharpie Mini 300 
+		Scotts Turf Builder 300 
+		Scotts EZ Seed 300 
+		Ford EcoBoost 300
+-
+	name: Royal Purple 300
+	series: nationwide
+	track: Auto Club Speedway
+	aliases:
+		Kenwood Home & Car Audio 300 
+		Auto Club 300 
+		1-800-Pitshop.com 300 
+		Stater Brothers 300 Presented by Gatorade 
+		Stater Brothers 300
+-
+	name: O'Reilly Auto Parts 300
+	series: nationwide
+	track: Texas Motor Speedway
+	aliases:
+		Coca-Cola 300 
+		Albertsons 300 
+		Jani-King 300 
+		O'Reilly 300
+-
+	name: ToyotaCare 250
+	series: nationwide
+	track: Richmond International Raceway
+	aliases:
+		Eastern 150 
+		Wrangler 150 
+		Pontiac 200 
+		Hardee's 200 
+		Hardee's 250 
+		Hardee's Fried Chicken 250 
+		Funai 250 
+		Circuit City 250 
+		Lipton Tea 250 
+		Bubba Burger 250 
+		Virginia 529 College Savings Plan 250
+-
+	name: Aaron's 312
+	series: nationwide
+	track: Talladega Superspeedway
+	aliases:
+		Fram Filter 500k 
+		Humminbird Fishfinder 500K
+		Birmingham Auto Dealers 500K 
+		Touchstone Energy 300 
+		Subway 300 
+		Aaron's 312 at Talladega
+-
+	name: VFW Sport Clips Help a Hero 200
+	series: nationwide
+	track: Darlington Raceway
+	aliases:
+		TranSouth 200 
+		Dixie Cup 200 
+		Country Squire 200 
+		Pontiac 200 
+		Mark III Vans 200 
+		Dura Lube 200 
+		SunCom 200 
+		darlingtonraceway.com 200 
+		Diamond Hill Plywood 200 
+		Royal Purple 200
+-
+	name: History 300
+	series: nationwide
+	track: Charlotte Motor Speedway
+	aliases:
+		Mello Yello 300 
+		Winn-Dixie 300 
+		Champion Spark Plug 300 
+		Red Dog 300 
+		Carquest Auto Parts 300 
+		Tech-Net Professional Auto Service 300 presented by CarQuest 
+		Top Gear 300
+-
+	name: 5-hour Energy 200
+	series: nationwide
+	track: Dover International Speedway
+	aliases:
+		Sportsman 200 
+		Budweiser 200 
+		Goodwrench 200 
+		Goodwrench / Delco 200 
+		GM Goodwrench / Delco 200 
+		GM Goodwrench / Delco Batteries 200 
+		MBNA Platinum 200 
+		MBNA Armed Forces Family 200 
+		MBNA America 200 
+		MBNA RacePoints 200 
+		StonebridgeRacing.com 200 
+		Dover 200 
+		Heluva Good! 200
+-
+	name: Pioneer Hi-Bred 250
+	series: nationwide
+	track: Iowa Speedway
+	aliases:
+		Iowa John Deere Dealers 250 presented by Pioneer 
+		Pioneer Hi-Bred 250
+-
+	name: Alliance Truck Parts 250
+	series: nationwide
+	track: Michigan International Speedway
+	aliases:
+		Detroit Gasket 200 
+		Pepsi 200 Presented by DeVilbiss 
+		NAPA 200 
+		NAPAonline.com 250 
+		Cabela's 250 
+		Domino's Pizza 250 
+		Carfax 250
+-
+	name: Sargento 200
+	series: nationwide
+	track: Road America
+	aliases:
+		Bucyrus 200 Presented by Menards
+-
+	name: Feed the Children 300
+	series: nationwide
+	track: Kentucky Speedway
+	aliases:
+		Outback Steakhouse 300 
+		Kroger 300 
+		Meijer 300
+-
+	name: Subway Firecracker 250
+	series: nationwide
+	track: Daytona International Speedway
+	aliases:
+		Stacker 2/GNC Live Well 250 
+		Winn-Dixie 250 
+		Winn-Dixie 250 presented by PepsiCo 
+		Winn-Dixie 250 Powered by Coca-Cola 
+		Subway Jalapeño 250
+-
+	name: F.W. Webb 200
+	series: nationwide
+	track: New Hampshire Motor Speedway
+	aliases:
+		Budweiser 300 
+		NE Chevy 250 
+		NE Chevy Dealers 250 
+		Stanley 200 
+		United States Cellular 200 
+		Gumout Long Life Formula 200 
+		Busch 200 
+		CVS Pharmacy 200 Presented by Bayer 
+		New England 200 
+		Siemens 200 
+		Camping World 200 presented by RVs.com 
+		Camping World RV Sales 200 presented by RVs.com 
+		Camping World RV Sales 200 presented by Turtle Wax 
+-
+	name: STP 300
+	series: nationwide
+	track: Chicagoland Speedway
+	aliases:
+		STP 300
+-
+	name: Indiana 250
+	series: nationwide
+	track: Indianapolis Motor Speedway
+	aliases:
+
+-
+	name: U.S. Cellular 250
+	series: nationwide
+	track: Iowa Speedway
+	aliases:
+		
+-
+	name: Zippo 200 at the Glen
+	series: nationwide
+	track: Watkins Glen International
+	aliases:
+		Fay's 150 
+		Lysol 200 
+		GNC Live Well 200 
+		Zippo 200
+-
+	name: Nationwide Children's Hospital 200
+	series: nationwide
+	track: Mid-Ohio Sports Car Course
+	aliases:
+		
+-
+	name: Food City 250
+	series: nationwide
+	track: Bristol Motor Speedway
+	aliases:
+		Pet Diary 150 
+		Free Service Tire Stores 150 
+		Free Service Tires 200 
+		Tri-City Pontiac 200 
+		Jay Johnson 200 
+		Jay Johnson 250
+-
+	name: NRA American Warrior 300
+	series: nationwide
+	track: Atlanta Motor Speedway
+	aliases:
+		Atlanta 300 
+		Slick 50 300 
+		Busch Light 300 
+		Stihl Outdoor Power Tools 300 
+		Stihl 300 
+		Yellow Freight 300 
+		Aaron's 312 
+		Nicorette 300 
+		Degree Men V12 300 
+		Great Clips 300
+-
+	name: Virginia 529 College Savings 250
+	series: nationwide
+	track: Richmond International Raceway
+	aliases:
+		Harvest 150 
+		Miller Time 150 
+		Miller 150 
+		7-Eleven 150 
+		Freedlander 200 
+		Commonwealth 200 
+		Autolite 200 
+		Autolite 250 
+		Autolite Platinum 250 
+		Autolite / Fram 250 
+		Funai 250 
+		Emerson Radio 250
+-
+	name: Dollar General 300
+	series: nationwide
+	track: Chicagoland Speedway
+	aliases:
+		Sam's Club Presents The Hills Bros. Coffee 300 
+		Tropicana Twister 300 
+		USG Durock 300
+-
+	name: Kentucky 300
+	series: nationwide
+	track: Kentucky Speedway
+	aliases:
+		
+-
+	name: OneMain Financial 200
+	series: nationwide
+	track: Dover International Speedway
+	aliases:
+		Grand National 200 
+		Ames / Peak 200 
+		Ames / SplitFire 200 
+		SplitFire 200 
+		MBNA 200 
+		MBNA Gold 200 
+		MBNA.com 200 
+		MBNA All-American Heroes 200 
+		Stacker 200 Presented by YJ Stinger 
+		Stacker 2 Hundred Presented by YJ Stinger 
+		RoadLoans.com 200 
+		Camping World RV Sales 200 
+		Dover 200
+-
+	name: Kansas Lottery 300
+	series: nationwide
+	track: Kansas Speedway
+	aliases:
+		Mr. Goodcents 300 
+		United Way 300 presented by Yellow Transportation & Sprint 
+		Yellow Transportation 300
+-
+	name: Dollar General 300
+	series: nationwide
+	track: Charlotte Motor Speedway
+	aliases:
+		Miller Time 300 
+		Miller 400 
+		All Pro 300 
+		All Pro Bumper to Bumper 300 
+		Little Trees 300 
+		Lowe's Presents the SpongeBob SquarePants Movie 300 
+		Dollar General 300 
+		Dollar General 300 Miles of Courage
+-
+	name: O'Reilly Auto Parts Challenge
+	series: nationwide
+	track: Texas Motor Speedway
+	aliases:
+		O'Reilly Challenge
+-
+	name: Great Clips 200
+	series: nationwide
+	track: Phoenix International Raceway
+	aliases:
+		Outback Steakhouse 200 
+		Bashas' Supermarkets 200 
+		Arizona 200 
+		Arizona.Travel 200 
+		Hefty Odor Block 200 
+		Able Body Labor 200 
+		Wypall* 200 Powered by Kimberly-Clark 
+		Wypall* 200
+-
+	name: Ford EcoBoost 300
+	series: nationwide
+	track: Homestead-Miami Speedway
+	aliases:
+		Jiffy Lube Miami 300 
+		HotWheels.com 300 
+		Miami 300 
+		GNC Live Well 300 
+		Ford 300

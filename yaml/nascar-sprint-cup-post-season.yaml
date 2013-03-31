@@ -1,0 +1,133 @@
+-
+	name: GEICO 400
+	series: sprint-cup
+	track: Chicagoland Speedway
+	postseason: true
+	aliases:
+		Tropicana 400 
+		USG Sheetrock 400 
+		LifeLock.com 400
+-
+	name: Sylvania 300
+	series: sprint-cup
+	track: New Hampshire Motor Speedway
+	postseason: true
+	aliases:
+		CMT 300 
+		Farm Aid on CMT 300 
+		Dura Lube/Kmart 300 
+		Dura Lube 300 sponsored by Kmart 
+		New Hampshire 300
+-
+	name: AAA 400
+	series: sprint-cup
+	track: Dover International Speedway
+	postseason: true
+	aliases:
+		Delaware 500 
+		CRC Chemicals 500 
+		Budweiser 500 
+		Peak Performance 500 
+		Peak AntiFreeze 500 
+		SplitFire Spark Plug 500 
+		MBNA 500 
+		MBNA 400 
+		MBNA Gold 400 
+		MBNA.com 400 
+		MBNA Cal Ripken, Jr. 400 
+		MBNA All-American Heroes 400 
+		MBNA America 400 
+		MBNA NASCAR RacePoints 400 
+		Dover 400 
+		Dodge Dealers 400 
+		Camping World RV 400
+-
+	name: Hollywood Casino 400
+	series: sprint-cup
+	track: Kansas Speedway
+	postseason: true
+	aliases:
+		Protection One 400 
+		Banquet 400 Presented by ConAgra Foods 
+		LifeLock 400 
+		Camping World RV 400 presented by Coleman 
+		Price Chopper 400 presented by Kraft Foods
+-
+	name: Bank of America 500
+	series: sprint-cup
+	track: Charlotte Motor Speedway
+	postseason: true
+	aliases:
+		National 400 
+		National 500 
+		NAPA National 500 
+		Miller High Life 500 
+		Oakwood Homes 500 
+		All Pro Auto Parts 500 
+		Mello Yello 500 
+		UAW-GM Quality 500 
+		Bank of America 500 
+		NASCAR Banking 500 only from Bank of America
+-
+	name: Camping World RV Sales 500
+	series: sprint-cup
+	track: Talladega Superspeedway
+	postseason: true
+	aliases:
+		Talladega 500 
+		Talladega DieHard 500 
+		DieHard 500 
+		Winston 500 
+		EA Sports 500 
+		UAW-Ford 500 
+		AMP Energy 500 
+		AMP Energy Juice 500 
+		Good Sam Club 500 
+		Good Sam Roadside Assistance 500
+-
+	name: Goody's Fast Relief 500
+	series: sprint-cup
+	track: Martinsville Speedway
+	postseason: true
+	aliases:
+		Unnamed/Unknown 
+		Old Dominion 400 
+		Old Dominion 500 
+		Goody's 500 
+		Hanes 500 
+		NAPA Autocare 500 
+		Subway 500 
+		Tums QuikPak 500 
+		Tums Fast Relief 500
+-
+	name: AAA Texas 500
+	series: sprint-cup
+	track: Texas Motor Speedway
+	postseason: true
+	aliases:
+		Dickies 500
+-
+	name: AdvoCare 500
+	series: sprint-cup
+	track: Phoenix International Raceway
+	postseason: true
+	aliases:
+		Dixie 300 
+		Dixie 400 
+		Dixie 500 
+		Atlanta Journal 500 
+		Hardee's 500 
+		Hooters 500 
+		NAPA 500 
+		Bass Pro Shops MBNA 500 
+		Pep Boys Auto 500 
+		Emory Healthcare 500
+-
+	name: Ford EcoBoost 400
+	series: sprint-cup
+	track: Homestead-Miami Speedway
+	postseason: true
+	aliases:
+		Pennzoil 400 
+		Pennzoil Freedom 400 
+		Ford 400
