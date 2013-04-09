@@ -1,7 +1,9 @@
+# Motorsport data YAML's
+
 Motorsport data YAML files created using Python to scrape and parse from the Wikipedia API.
 
-<b>CSV files</b>
-<br />
+## CSV files
+
 These were created using this Chrome <a href="https://chrome.google.com/webstore/detail/scraper/mbigbapnjcgaffohmbkdlecaccepngjd" target="_blank">scraping extension</a> to find the proper XPaths for the relevant data from the following Wikipedia pages:
 
 <a href="http://en.wikipedia.org/wiki/2013_F1" target="_blank">2013 Formula One season</a>
@@ -19,8 +21,8 @@ These were created using this Chrome <a href="https://chrome.google.com/webstore
 <br />
 After grabbing the appropriate Wikipeida URL's for the relevant race events, I then used them to generate the respective URL's from Wikipedia's <a href="http://www.mediawiki.org/wiki/API:Main_page" target="_blank">MediaWiki API</a>.
 
-<b>Python scripts</b>
-<br />
+## Python scripts
+
 <a href="https://github.com/serve-and-volley/motorsport-yaml/blob/master/python/race_alias_tester.py" target="_blank">race_alias_tester.py</a>
 <br />
 This is used to test the API URL's and to figure out the parsing rules to extract the race event aliases. This was a big pain in the ass since Wikipedia articles do not have uniform formatting.
